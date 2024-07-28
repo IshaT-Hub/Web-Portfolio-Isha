@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+}
+
+body{
+    background: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    color: rgb(0, 0, 0);
+    overflow: hidden;
+    overflow-y: scroll;
+    
+}
